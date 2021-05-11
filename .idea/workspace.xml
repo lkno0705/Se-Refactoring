@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="370a5c69-23c3-4310-8d87-7df5607dfd89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CustomerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Se-Refactoring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Se-Refactoring.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Movie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Rental.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Rental.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Customer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +24,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
@@ -73,11 +64,58 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620735797448</updated>
-      <workItem from="1620735799266" duration="242000" />
+      <workItem from="1620735799266" duration="612000" />
     </task>
+    <task id="LOCAL-00001" summary="removed unnecessary ; in Customer.java">
+      <created>1620736162431</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620736162431</updated>
+    </task>
+    <task id="LOCAL-00002" summary="made vars final in Customer.java">
+      <created>1620736221939</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620736221939</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed unparameterized use of Vector in Customer.java">
+      <created>1620736324423</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620736324423</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixed unparameterized use of Enumeration in Customer.java">
+      <created>1620736381138</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620736381138</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="removed unnecessary ; in Customer.java" />
+    <MESSAGE value="made vars final in Customer.java" />
+    <MESSAGE value="fixed unparameterized use of Vector in Customer.java" />
+    <MESSAGE value="fixed unparameterized use of Enumeration in Customer.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed unparameterized use of Enumeration in Customer.java" />
   </component>
 </project>
